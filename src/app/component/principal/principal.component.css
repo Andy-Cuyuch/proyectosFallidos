@@ -1,0 +1,22 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    scroll-behavior: smooth;
+  }
+  
+  .her h1{
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Signika', sans-serif;
+    font-size: 2.7rem;
+    color:  #f9f9ff;
+    margin-bottom: 35px;
+  }
